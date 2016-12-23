@@ -31,6 +31,10 @@ public:
 	void Release();
 	// Return hit for first physics body in reach
 	const FHitResult GetFirstPhysicsBodyInReach();
+	// Returns FVector variable for the line start
+	FVector GetReachLineStart();
+	// Returns FVector variable for the line end
+	FVector GetReachLineEnd();
 
 private:
 	// How far ahead of the player can we reach in cm
