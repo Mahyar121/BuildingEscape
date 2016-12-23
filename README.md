@@ -1,2 +1,2 @@
 # BuildingEscape
-Simple game of escaping a building from the Unreal Course
+Simple game of escaping a building that I learned from Unreal Course
