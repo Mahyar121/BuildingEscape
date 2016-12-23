@@ -1,2 +1,2 @@
 # BuildingEscape
-Work in Progress game from Unreal Course
+Simple game of escaping a building from the Unreal Course
